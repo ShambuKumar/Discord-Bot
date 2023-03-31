@@ -1,0 +1,25 @@
+{
+  "name": "lenny-bot",
+  "version": "1.0.0",
+  "description": "A powerful discord bot.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "lenny"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Shambu Kumar",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.37.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
