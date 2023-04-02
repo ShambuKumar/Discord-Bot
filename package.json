@@ -4,7 +4,7 @@
   "description": "A powerful discord bot.",
   "main": "index.ts",
   "scripts": {
-    "test": "test "
+    "test": "test"
   },
   "repository": {
     "type": "git",
